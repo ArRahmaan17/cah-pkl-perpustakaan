@@ -19,10 +19,7 @@
 /storage/*.key
 /storage/pail
 /vendor
-<<<<<<< HEAD
-=======
 /perpustakaan-data
->>>>>>> b52155f (feat: konfigurasi docker, dan tolong dibenahi migrate laravelnya)
 Homestead.json
 Homestead.yaml
 Thumbs.db
